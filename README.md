@@ -3,14 +3,14 @@
 ## Overview
 
 
-[Unflitered]!(Results/Unfiltered.png)
+![Unflitered](Results/Unfiltered.png)
 
 
 
-[Datefiltered]!(Results/DateFiltered.png)
+![Datefiltered](Results/DateFiltered.png)
 
 
-[Cityfiltered]!(Results/CityFiltered.png)
+![Cityfiltered](Results/CityFiltered.png)
 
 * Deliverable 1: Filter UFO sightings on multiple criteria
 * Deliverable 2: A written report on the UFO analysis (README.md)
